@@ -7,11 +7,12 @@ Then write the Following Two Commands:
 
 1. Command To Compile the Code 
 
--> g++ -Wall -o TicTacToe main.cpp
+g++ -Wall -o TicTacToe main.cpp
 
 2. Command To Run the Code
 
 Windows: TicTacToe
+
 Mac/Linux: ./TicTacToe
 
 Output Of the Project:
