@@ -10,8 +10,6 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
-    cout<<argv[1]<<endl;
-    cout<<argc<<endl;
     char playerAnswer;
     TicTacToe T;
     cout << "Would you like to play Triplet Name King (Tic Tac Toe Type Game)? (Y/N)" << endl;
