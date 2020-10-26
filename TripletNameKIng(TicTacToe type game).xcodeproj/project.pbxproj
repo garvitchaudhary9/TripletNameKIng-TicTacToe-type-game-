@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		FFDC24C22546DC4A003C9FF0 /* TripletNameKIng(TicTacToe type game) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TripletNameKIng(TicTacToe type game)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFDC24C52546DC4A003C9FF0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FFDC24CD2546DDBB003C9FF0 /* Player.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		FFDC24CE2546DF45003C9FF0 /* Cell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cell.h; sourceTree = "<group>"; };
+		FFDC24CF2546E002003C9FF0 /* TicTacToe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TicTacToe.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				FFDC24C52546DC4A003C9FF0 /* main.cpp */,
+				FFDC24CF2546E002003C9FF0 /* TicTacToe.h */,
+				FFDC24CE2546DF45003C9FF0 /* Cell.h */,
+				FFDC24CD2546DDBB003C9FF0 /* Player.h */,
 			);
 			path = "TripletNameKIng(TicTacToe type game)";
 			sourceTree = "<group>";
